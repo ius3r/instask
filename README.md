@@ -4,7 +4,7 @@
 
 **Game:** https://drive.google.com/file/d/1J0DQ-_FeyicMgnVE9TOTy3_yt2hnl54V/view?usp=sharing  
 
-**Server:** https://drive.google.com/file/d/1526v52jp9VKfgYnZD5guUB_597gibP4i/view?usp=sharing
+**Source:** https://drive.google.com/file/d/1526v52jp9VKfgYnZD5guUB_597gibP4i/view?usp=sharing
 
 ## Demo (Click Video)
 
