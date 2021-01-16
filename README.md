@@ -19,4 +19,4 @@
 HitLoc = TargetLoc + TargetVel * Time
 ```
 * Game Configurations can be found in **Saved\Config\WindowsNoEditor\Game.ini**.
-[![Demo](https://raw.githubusercontent.com/ius3r/instask/main/media/config.png)]
+![Demo](https://raw.githubusercontent.com/ius3r/instask/main/media/config.png)
